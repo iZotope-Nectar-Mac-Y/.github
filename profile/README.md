@@ -1,6 +1,6 @@
 # iZotope Nectar Advanced
 <div align="center">
-  <img src="https://www.izotope.com/storage-cms/images/3/3/2/4/994233-1-eng-GB/5b427315f5de-Nectar-4-adv_icon-circle-blk.png" width="300" height="auto;"> 
+  <img src="https://izotope.jp/wp-content/uploads/sites/2/2021/07/nectar-icon-gradient@2x.png" width="300" height="auto;"> 
 </div>  
 <br>
 <div align="center">
