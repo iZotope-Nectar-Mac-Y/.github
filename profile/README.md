@@ -1,6 +1,6 @@
 # iZotope Nectar Advanced
 <div align="center">
-  <img src="https://www.izotope.com/storage-cms/images/1/2/2/4/994221-1-eng-GB/9a0946ab9d47-Nectar-4-std_icon-circle.png" width="300" height="auto;"> 
+  <img src="https://www.izotope.com/storage-cms/images/3/3/2/4/994233-1-eng-GB/5b427315f5de-Nectar-4-adv_icon-circle-blk.png" width="300" height="auto;"> 
 </div>  
 <br>
 <div align="center">
